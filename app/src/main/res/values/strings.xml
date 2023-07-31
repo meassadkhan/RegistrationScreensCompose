@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RegistrationScreensCompose</string>
+    <string name="hey_there">Hey There,</string>
+    <string name="create_account">Create an Account</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="email">email</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="password">Password</string>
+</resources>
